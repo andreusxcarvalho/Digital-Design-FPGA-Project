@@ -4,4 +4,4 @@ This Digital Design FPGA Project was a multi-layer interactive game built using 
 
 Click the image below for a short informal demo.
 
-[![Project Video]()](https://youtube.com/shorts/OVnbA2drk4I?feature=share)
+[![Project Video](![Thumbnail](docs/Thumbnail.png))](https://youtube.com/shorts/OVnbA2drk4I?feature=share)
